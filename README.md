@@ -1,5 +1,8 @@
-# YOUR SONG
+# Cellophane by Middle Kids
 
-> Lyric from your song
+> Cellophane
+You're strange up in your brain
 
 ## Citations
+- [genius](https://genius.com/Middle-kids-cellophane-brain-lyrics)
+- [open props](https://open-props.style/)
