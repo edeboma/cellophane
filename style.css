@@ -1,0 +1,44 @@
+@import "https://unpkg.com/open-props";
+
+* {
+  outline: 1px gray;
+}
+
+body {
+   background: #2C493A;
+   font-family: 'Clash Display', sans-serif;
+  border: var(--border-size-1);
+  border-color: white;
+}
+
+
+figure {
+  
+  box-shadow: var(--shadow-1);
+  color: #181A19;
+  text-align: left;
+  font-family: 'Clash Display', sans-serif;
+  font-weight: var(--font-weight-1);
+  font-size: var(--font-size-4);
+  padding-left: 150px;
+}
+
+h1 {
+  text-align: center;
+}
+
+a.title {
+  font-size: var(--font-size-fluid-3);
+  text-decoration: none;
+  color: black;
+  background: white;
+  text-decoration-thickness: none;
+  text-decoration-style: none;
+  text-decoration-color: none;
+  text-align: center;
+} 
+
+header {
+  display: flex;
+  justify-content: center;
+}
