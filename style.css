@@ -13,16 +13,16 @@ body {
 figure {
 
   color: #181A19;
-  text-align: right;
+  text-align: left;
   font-family: 'Clash Display', sans-serif;
   font-weight: var(--font-weight-1);
   font-size: var(--font-size-4);
-  padding-left: 950px;
+  padding-left: 1500px;
 }
 
 h1 {
-  text-align: right;
-  padding-left: 960px;
+  text-align: left;
+  padding-left: 1500px;
 }
 
 a.title {
