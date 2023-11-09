@@ -13,7 +13,7 @@ body {
 figure {
 
   color: #181A19;
-  text-align: left;
+  text-align: right;
   font-family: 'Clash Display', sans-serif;
   font-weight: var(--font-weight-1);
   font-size: var(--font-size-4);
@@ -21,7 +21,7 @@ figure {
 }
 
 h1 {
-  text-align: left;
+  text-align: right;
   padding-left: 960px;
 }
 
