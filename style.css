@@ -14,8 +14,8 @@ figure {
 
   color: #181A19;
   text-align: left;
-  font-family: 'Clash Display', sans-serif;
-  font-weight: var(--font-weight-1);
+  font-family: sans-serif;
+  font-weight: 1;
   font-size: var(--font-size-4);
   padding-left: 1500px;
 }
@@ -23,6 +23,7 @@ figure {
 h1 {
   text-align: left;
   padding-left: 1500px;
+  font-family: 'Clash Display', sans-serif;
 }
 
 a.title {
