@@ -5,7 +5,7 @@ body {
    background: #2C493A;
    font-family: 'Clash Display', sans-serif;
   background-image: url(assets/bgv2.jpg);
-  background-size: cover;
+  background-size: contain;
 
 }
 
@@ -17,12 +17,15 @@ figure {
   font-family: sans-serif;
   font-weight: 1;
   font-size: var(--font-size-4);
-  padding-left: 1500px;
+  display:flex;
+  flex-direction: column;
+align-items: flex-end;
+
 }
 
 h1 {
-  text-align: left;
-  padding-left: 1500px;
+  display: flex;
+  justify-content: flex-end;
   font-family: 'Clash Display', sans-serif;
 }
 
