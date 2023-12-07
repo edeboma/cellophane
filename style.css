@@ -10,8 +10,9 @@ body {
    display: grid;
     
 /* Change  values  👇 to experiment*/
-   align-content: right;
-   justify-content: right;
+   align-content: center;
+   justify-content: center;
+   margin-left: 400px;
 
 }
 
